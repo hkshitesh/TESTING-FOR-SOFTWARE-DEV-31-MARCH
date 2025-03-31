@@ -26,7 +26,7 @@ public class GradingSystemBVA {
         assertEquals("Pass", GradingSystem.getGrade(59));
         assertEquals("Merit", GradingSystem.getGrade(60)); // Transition to "Merit"
     }
-
+@Test
     public void testMeritBoundary() {
         assertEquals("Merit", GradingSystem.getGrade(61));
         assertEquals("Merit", GradingSystem.getGrade(78));
