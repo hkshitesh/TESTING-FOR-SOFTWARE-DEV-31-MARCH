@@ -8,7 +8,10 @@ https://repo1.maven.org/maven2/org/hamcrest/hamcrest/3.0/hamcrest-3.0.jar
 
 ## Jenkins Plugin
 
-Pipeline
-Pipeline: Stage View
-Pipeline: Build Steps
-Pipeline: Basic Steps
+1. Pipeline
+
+2. Pipeline: Stage View
+
+3. Pipeline: Build Steps
+
+4. Pipeline: Basic Steps
